@@ -2,7 +2,7 @@
 body {
 background-color: #333333;
 color: #ffffff;
-font-family: calibri; /* took out verdana */
+font-family: verdana; /* took out calibri, it changes to times new on Jen and my phone */
 text-align: center;
 }
 
